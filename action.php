@@ -5,7 +5,10 @@ mysql_select_db("krish");
 
 QUESTION 1<br><br>
 
-Do you prefer online shopping...? <br><br>
+Do you prefer online or offline shopping...? <br><br>
+'<input type="radio" name="online" value="online"><br>';
+'<input type="radio" name="ofline" value="ofline"><br>';
+<input type="radio" name="none" value="none"><br>';
     
     
 Choose the right answer:<br><br>
